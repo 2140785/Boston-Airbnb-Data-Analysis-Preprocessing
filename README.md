@@ -7,6 +7,9 @@ In this section, we gained an understanding of the operations, the nature of the
 we asked 4 questions to understand what is going on with AirBnB in boston and We will analyze a dataset to try to answer these questions.
 
 Q1 - What is room type?
+
 Q2 - What is the breakdown of property types by percentage?
+
 Q3 - How are bed types distributed among the listings?
+
 Q4 - Sentiment Analysis
