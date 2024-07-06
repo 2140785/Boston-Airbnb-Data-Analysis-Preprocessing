@@ -1,0 +1,31 @@
+# Boston Airbnb Data Analysis: Insights and Exploration
+## Project Overview
+In the realm of data science, insights are often hidden within datasets waiting to be discovered. As part of my Udacity Data Scientist Nanodegree project, I embarked on an in-depth analysis of Boston's Airbnb data. This exploration aimed to uncover patterns and insights based on specific criteria, shedding light on the dynamics of the hospitality market in Boston.
+
+## Business Understanding
+In this section, we gained insights into the operations, business nature, demand dynamics, and the role of a data scientist working as a business analyst. Our approach focused on integrating features to enhance business accuracy and efficiency.
+
+Questions Explored
+We aimed to answer four key questions to understand the Airbnb landscape in Boston:
+
+Q1 - What is room type?
+Q2 - What is the breakdown of property types by percentage?
+Q3 - How are bed types distributed among the listings?
+Q4 - Sentiment Analysis
+Data Understanding
+The dataset includes detailed Airbnb listings in Boston, covering attributes such as listing URLs, names, descriptions, host information, location details, property and room types, pricing, availability, and review scores. Each entry represents a unique listing with comprehensive accommodation and host characteristics.
+
+Data Preparation
+During the data preparation phase, we collected, assessed, and cleaned the dataset. This involved focusing on selected columns and leveraging Python libraries like NumPy and Pandas for data cleaning and organization.
+
+Data Modeling
+Using Python libraries matplotlib and seaborn, we visualized various behaviors related to the four questions posed, aiming to uncover insights into Boston's Airbnb market dynamics.
+
+Evaluate the Results
+In this section, we explored the operational aspects and dynamics of the Airbnb business in Boston. We analyzed demands and expectations from a data scientist's perspective, integrating advanced features to enhance business precision.
+
+Conclusion
+Through this project, we aimed to provide a deeper understanding of Boston's Airbnb market. By addressing key questions and leveraging data science techniques, we uncovered valuable insights into room types, property distributions, bed preferences, and customer sentiments. These findings are essential for market analysis and aligning services with guest expectations in the evolving hospitality sector.
+
+For a detailed exploration of our findings, please visit our Medium blog post.
+
